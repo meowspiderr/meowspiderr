@@ -1,12 +1,12 @@
 
 # Welcome to my profile!
 
-#### Projects
+### Projects
 
 [Reflux](https://github.com/meowspiderr/Reflux) — A simple Windows 11 app for easy audio editing. Drop an audio file in any format and edit the bass, vocal presence, audio quality, length, and much more!
 
 
-#### Languages & Tools
+### Languages & Tools
 
 <p align="Center">
   <img src="https://skillicons.dev/icons?i=ts,rust,css,html,powershell,java,py,lua&perline=8&theme=dark" />
