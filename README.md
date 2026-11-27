@@ -5,7 +5,6 @@
 
 [Reflux](https://github.com/meowspiderr/Reflux) — A simple Windows 11 app for easy audio editing. Drop an audio file in any format and edit the bass, vocal presence, audio quality, length, and much more!
 
-<br><br>
 
 #### Languages & Tools
 
