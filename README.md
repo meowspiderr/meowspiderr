@@ -1,6 +1,6 @@
 # <img src="/assets/sparkle.png" width="30" alt="sparkles"> Welcome to my profile <img src="/assets/sparkle.png" width="30" alt="sparkles">
 
-### <img src="/assets/gear.png" width="10" alt="gear"> About me <img src="/assets/gear.png" width="10" alt="gear">
+### <img src="/assets/gear.png" width="20" alt="gear"> About me <img src="/assets/gear.png" width="20" alt="gear">
 I love simple/modern design with an liking in both frosted and liquid glass design.
 
 Whilst I enjoy developing software, I prefer to develop for a specific purpose.
@@ -10,12 +10,12 @@ Throughout my design and development process I continually ask myself:
 
 I aim to design beginner-friendly and useful software, functional and well designed.
 
-### <img src="/assets/wrench.png" width="10" alt="wrench"> Projects <img src="/assets/wrench.png" width="10" alt="wrench">
+### <img src="/assets/wrench.png" width="20" alt="wrench"> Projects <img src="/assets/wrench.png" width="20" alt="wrench">
 
 [Reflux](https://github.com/meowspiderr/Reflux) — A simple Windows 11 app for easy audio editing. Drop an audio file in any format and edit the bass, vocal presence, audio quality, length, and much more!
 
 
-### <img src="/assets/code.png" width="10" alt="code"> Languages & Tools <img src="/assets/code.png" width="10" alt="code">
+### <img src="/assets/code.png" width="20" alt="code"> Languages & Tools <img src="/assets/code.png" width="20" alt="code">
 
 <p align="Center">
   <img src="https://skillicons.dev/icons?i=ts,rust,css,html,powershell,java,py,lua&perline=8&theme=dark" />
