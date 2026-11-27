@@ -1,4 +1,4 @@
-# <img src="/assets/pixel_star.png" width="25" alt="sparkles"> Welcome to my profile <img src="/assets/pixel_star.png" width="25" alt="sparkles">
+# <img src="/assets/sparkle.png" width="25" alt="sparkles"> Welcome to my profile <img src="/assets/sparkle.png" width="25" alt="sparkles">
 
 ### About me
 I love simple/modern design with an liking in both frosted and liquid glass design.
