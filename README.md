@@ -1,4 +1,4 @@
-# Welcome to my profile <img src="meowspiderr/assets/pixel_star.png" width="20" alt="sparkles">
+# Welcome to my profile <img src="meowspiderr/meowspiderr/assets/pixel_star.png" width="20" alt="sparkles">
 
 ### About me
 I love simple/modern design with an liking in both frosted and liquid glass design.
