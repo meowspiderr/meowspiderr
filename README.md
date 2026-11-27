@@ -1,5 +1,14 @@
-
 # Welcome to my profile!
+
+### About me
+I love simple/modern design with an liking in both frosted and liquid glass design.
+
+Whilst I enjoy developing software, I prefer to develop for a specific purpose.
+
+Throughout my design and development process I continually ask myself:
+"Would someone genuinely find this useful and want to use it?"
+
+I aim to design beginner-friendly and useful software, functional and well designed.
 
 ### Projects
 
